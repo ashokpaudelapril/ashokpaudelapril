@@ -26,12 +26,29 @@ I’m a passionate learner and tech enthusiast with a focus on Artificial Intell
 
 ## 📝 Featured Projects
 
-### **AI-Powered Cancer Diagnosis System (Conceptual)**
-Exploring the use of machine learning algorithms and biosensor systems for early detection of cancer. This project focuses on data analysis and prediction using AI.
+### Web Calculators
 
-### **HTML Elements Project**
-A comprehensive web project showcasing the use of all essential HTML elements to create an interactive and accessible website layout.
+#### Basic Web Calculator
+A straightforward web calculator for basic arithmetic operations.
+- **Technologies Used:** HTML, CSS, JavaScript
+- **Features:** Handles basic arithmetic operations, designed with a responsive layout.
 
+#### Love Compatibility Calculator
+A playful web application to check "love compatibility" between two names.
+- **Technologies Used:** HTML, CSS, JavaScript
+- **Features:** Generates a random compatibility percentage.
+
+### Tic-tac-toe (C++)
+
+A command-line Tic-tac-toe game utilizing object-oriented programming principles.
+- **Technologies Used:** C++
+- **Features:** Two-player game, implemented with a focus on modularity and reusability.
+
+### Password Manager (C++)
+
+A console-based password manager with simple encryption for secure password storage and retrieval.
+- **Technologies Used:** C++
+- **Features:** Stores and retrieves passwords with basic encryption.
 ---
 
 ## 📚 Education
