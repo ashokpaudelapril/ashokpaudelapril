@@ -1,75 +1,100 @@
-# Hi, I'm Ashok Paudel 👋
+<div align="center">
 
-### 🧑‍💻 Sophomore | Electrical Engineering (Computer Engineering) | Texas State University
+# Hey, I'm Ashok Paudel 👋
 
-I’m a passionate learner and tech enthusiast with a focus on Artificial Intelligence, Machine Learning, and sustainable technology. I love building projects that combine innovation with problem-solving to add value to society. I’m also an aspiring researcher, constantly exploring new ways technology can impact the future.
+**Electrical Engineering @ Texas State University** · Computer Engineering Concentration  
+*Quantum Computing · Semiconductor Fabrication · ML & AI · Nanotechnology*
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashokpaudelapril.vercel.app-black?style=flat-square&logo=vercel)](https://ashokpaudelapril.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashokpaudelapril-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashokpaudelapril/)
+[![Email](https://img.shields.io/badge/Email-ashokpaudelapril@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:ashokpaudelapril@gmail.com)
+[![Amateur Radio](https://img.shields.io/badge/Ham_Radio-General_Class_Licensed-red?style=flat-square)](https://www.arrl.org/)
 
-## 🚀 My Areas of Interest
-- **Artificial Intelligence & Machine Learning**: Projects and research on AI applications for real-world problems
-- **Sustainable Technology**: Exploring the intersection of AI and sustainability, including biosensors for cancer diagnosis
-- **Web Development**: Building web applications using React.js, HTML, CSS
-- **Data Science**: Working with tools like Python, NumPy, pandas, matplotlib, and Seaborn
-- **3D Printing**: Experience with PETG material, using Ingram Hall Makerspace for projects
-- **Leadership & Collaboration**: Involved in student organizations and leadership programs
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
-- **Languages**: Python, C++, JavaScript, HTML/CSS
-- **Libraries & Frameworks**: NumPy, pandas, matplotlib, Seaborn, React.js
-- **Tools**: Git, Jupyter Notebooks, Visual Studio Code, 3D Printing
-- **AI & ML**: Neural Networks, Decision Trees, KNN, Supervised Learning
+## 🧠 About Me
+
+> *"We are better together — with ethics and empathy."*
+
+I'm an EE student who can't stop being curious about what's next in computing. My obsession lives at the intersection of **quantum hardware**, **semiconductor fabrication**, and **AI/ML** — the layers where the next generation of computers will actually be built.
+
+I love connecting dots across fields. To me, understanding how a qubit behaves and how humans make decisions aren't that far apart — both are about systems, uncertainty, and behavior. So alongside the engineering, I explore behavioral economics, psychology, and leadership, because building better technology means understanding the people it's built for.
+
+Outside of engineering? I write — about love, life, philosophy, and the cosmos.
 
 ---
 
-## 📝 Featured Projects
+## 🔬 Current Research & Work
 
-### Web Calculators
-
-#### Basic Web Calculator
-A straightforward web calculator for basic arithmetic operations.
-- **Technologies Used:** HTML, CSS, JavaScript
-- **Features:** Handles basic arithmetic operations, designed with a responsive layout.
-
-#### Love Compatibility Calculator
-A playful web application to check "love compatibility" between two names.
-- **Technologies Used:** HTML, CSS, JavaScript
-- **Features:** Generates a random compatibility percentage.
-
-### Tic-tac-toe (C++)
-
-A command-line Tic-tac-toe game utilizing object-oriented programming principles.
-- **Technologies Used:** C++
-- **Features:** Two-player game, implemented with a focus on modularity and reusability.
-
-### Password Manager (C++)
-
-A console-based password manager with simple encryption for secure password storage and retrieval.
-- **Technologies Used:** C++
-- **Features:** Stores and retrieves passwords with basic encryption.
----
-
-## 📚 Education
-**Bachelor of Science in Computer Engineering**  
-Texas State University | *Expected Graduation: May 2027*
+| Role | Organization | Focus |
+|------|-------------|-------|
+| 🧬 PREM Quantum Researcher | Texas State University – Physics | DNA nanostructures for qubit formation, 2D quantum dot arrays |
+| 📡 Wi-Fi HaLow Research | Texas State – Ingram School of Engineering | ETL pipelines for 500+ IoT devices, channel optimization |
+| 🎓 AI Leadership Program | Aspire Institute (AILP Cohort 1) | AI literacy & leadership for an AI-driven world |
+| 🌍 Outreach Director | Trinket For Education (Nonprofit) | Raising Nepal's high school graduation rate to 90% |
+| ➕ Math Tutor | Texas State – SLAC | Individualized tutoring from arithmetic to calculus |
 
 ---
 
-## 🌱 Currently Learning
-- **React.js** for building modern web applications
-- **Deep Learning** to expand my knowledge of neural networks and AI
-- **Sustainable Tech** and its applications in the energy sector
+## 🛠️ Tech & Tools
+
+**Languages & Data**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**ML / AI**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM-blueviolet?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square)
+
+**Hardware & Research**  
+![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-6A0DAD?style=flat-square)
+![Semiconductor Fab](https://img.shields.io/badge/Semiconductor_Fabrication-silver?style=flat-square)
+![MOCVD](https://img.shields.io/badge/MOCVD-gray?style=flat-square)
+![Gpredict](https://img.shields.io/badge/Orbit_Tracking-gpredict-blue?style=flat-square)
 
 ---
 
-## 📫 How to Reach Me
-- **Email**: eyu15@txstate.edu
-- **LinkedIn**: https://www.linkedin.com/in/ashokpaudelapril/
+## 🚀 Highlights
 
+- 🛰️ **Satellite Ground Station Lead** — Pleiades-Maia Mission: designed & deployed a 4-antenna array with automated orbit tracking
+- 🔬 **UT Austin ECE Next Researcher** — Built predictive models for Metal-Assisted Chemical Etching (MacEtch) in advanced semiconductor patterning
+- 📈 **Civil Engineering ML Research** — LSTM & XGBoost models with 85%+ accuracy forecasting sensor resistance 200+ time steps ahead
+- 🌐 **Wi-Fi HaLow ETL Pipeline** — 50% improvement in connection stability across 500+ IoT devices
+- 🏆 Dean's List (×4) · Presidential Merit Scholarship · VP of Events @ IEEE Student Branch
 
 ---
 
-## 🌟 Fun Fact
-I enjoy writing small philosophical paragraphs in my free time, drawing parallels between AI, technology, and human consciousness.
+## 🌱 What I'm Exploring
+
+```
+Quantum Information  ←→  DNA Nanotechnology  ←→  Semiconductor Fabrication
+        ↕                                                  ↕
+   Machine Learning              ←→              Behavioral Economics & Leadership
+```
+
+I believe the most interesting breakthroughs happen when the **hardware** and **intelligence** layers evolve together — and when the engineers building them understand the humans they're building for.
+
+---
+
+## 📫 Let's Connect
+
+I'm actively seeking **internship opportunities** in:
+- 🔬 Semiconductor Engineering
+- ⚛️ Quantum Computing
+- 🤖 AI / ML & Data Science
+
+If you're working on something at the edge of what's possible — or just want to swap ideas — [reach out](mailto:ashokpaudelapril@gmail.com). Who knows where it leads.
+
+---
+
+<div align="center">
+
+*Kathmandu → San Marcos → wherever curiosity takes me next*
+
+</div>
