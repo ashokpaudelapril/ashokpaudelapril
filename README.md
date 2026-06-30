@@ -96,9 +96,7 @@ I believe the most interesting breakthroughs happen when the **hardware** and **
 
 I'm actively seeking **internship opportunities** in:
 - 🤖 AI, Machine Learning & Data Analytics
-- ⚛️ Quantum Information Science
 - 🔌 Embedded Systems
-- 📡 Networks & Communications
 - 🔐 Cybersecurity
 
 If you're working on something at the edge of what's possible — or just want to swap ideas — [reach out](mailto:ashokpaudelapril@gmail.com). Who knows where it leads.
