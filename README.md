@@ -5,7 +5,7 @@
 **Electrical Engineering @ Texas State University** · Computer Engineering Concentration  
 *Quantum Computing · Semiconductor Fabrication · ML & AI · Astrophysics · Full-Stack Development*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashokpaudelapril.vercel.app-black?style=flat-square&logo=vercel)](https://ashokpaudelapril.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashokpaudelapril.com-black?style=flat-square&logo=vercel)](https://ashokpaudelapril.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashokpaudelapril-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashokpaudelapril/)
 [![Email](https://img.shields.io/badge/Email-ashokpaudelapril@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:ashokpaudelapril@gmail.com)
 [![Amateur Radio](https://img.shields.io/badge/Ham_Radio-General_Class_Licensed-red?style=flat-square)](https://www.arrl.org/)
